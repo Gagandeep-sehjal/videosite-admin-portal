@@ -70,11 +70,6 @@ Images:
 
 ![Screenshot 2024-01-26 141748](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/5f950d61-c273-4f29-93b3-78d96c755de1)
 
-![Screenshot 2024-01-26 141515](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/b8c46b27-2542-41f8-bc62-5742cf6a5253)
-
-
-![Screenshot 2024-01-26 141441](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/af9d7032-1da8-440d-b81d-11b710d53ce6)
-
 
 ![Screenshot 2024-01-26 141419](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/8018de4e-a127-4ed5-9a18-d63de64e32d5)
 

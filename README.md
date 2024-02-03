@@ -52,6 +52,8 @@ Implement frontend components and integrate with backend APIs.
 Test the application thoroughly.
 
 Images:
+![homepage](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/3fa1a4e2-d767-4e41-b94c-5c86715d56d2)
+
 ![users](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/ba240bff-a03e-4b45-aade-330c2b6368c2)
 
 ![videopage](https://github.com/Gagandeep-sehjal/videosite-admin-portal/assets/83236527/2edc2d3d-db60-45be-8741-8acdd8ecf958)
